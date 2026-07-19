@@ -70,4 +70,4 @@ Passionate Full Stack Developer and RHCSA Certified Linux Administrator from Ind
 </p>
 
 ---
-<p align="center"><i>⭐️ From <a href="https://github.com/dheerajj4545">dheerajj4545</a></i></p>
+<p align="center"><i>⭐️ From <a href="https://github.com/dheerajj4545">Dheeraj</a></i></p>
